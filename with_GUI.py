@@ -128,6 +128,7 @@ user_input = 7
 # Create status
 status = Status(user_input)
 
+#
 
 # This for is responsable to keep the whole code alive, it only depends of user_inputs (how many Plates the user wants to try)
 for plate in range(user_input, 0, -1):
